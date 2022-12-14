@@ -20,16 +20,16 @@ The contract is the joint_savings.sol file in this repository. Open the remix id
 
 * First: Set the two accounts.
 
-![setAccounts](Photos/setAccounts.png)
+![setAccounts](photos/setAccounts.png)
 
 * Then make a deposit.
   
-![deposit](Photos/deposit_1_ETH_as_Wei.png)
+![deposit](photos/deposit_1_ETH_as_Wei.png)
 
 * Last and certainly not least, withdraw.
   
-![withdraw_5_ETH](Photos/withdraw_5_ETH.png)
-![withdraw_10_ETH](Photos/withdraw_10_ETH.png)
+![withdraw_5_ETH](photos/withdraw_5_ETH.png)
+![withdraw_10_ETH](photos/withdraw_10_ETH.png)
 
 ---
 
